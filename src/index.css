@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for App */
+body {
+  background: linear-gradient(to bottom right, #c7d2fe, #e9d5ff);
+  min-height: 100vh;
+}
